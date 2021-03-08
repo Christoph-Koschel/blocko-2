@@ -1,0 +1,15 @@
+.default {
+    background-color: gray;
+}
+
+.clean {
+    background-color: aqua;
+}
+
+.player {
+    background-color: brown;
+}
+
+.lock {
+    background-color: orange;
+}
